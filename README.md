@@ -49,7 +49,7 @@ The **Library Management System** is a web-based application designed to help ma
 ```
 
 ## Screenshots
-To better understand the UI and features, refer to the **lms screenshoot/** folder.
+![ims screenshoot](1home.lpg.png)
 
 ## Technologies Used
 - **PHP** for backend logic
